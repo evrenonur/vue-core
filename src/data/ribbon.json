@@ -1,0 +1,258 @@
+{
+    "colored":[
+        {
+            "class":"ribbon-primary",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "class":"ribbon-info",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "class":"ribbon-success",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        }
+    ],
+
+    "left":[{
+            "card":"ribbon-wrapper",
+            "class":"ribbon-secondary",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-primary",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-success",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-info",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-warning",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-danger",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        }
+    ],
+
+    "right":[
+         {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-secondary ribbon-right",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-primary ribbon-right",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-success ribbon-right",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-info ribbon-right",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-warning ribbon-right",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-danger ribbon-right",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        }
+
+    ],
+    "verticalleft":[
+         {
+            "card":"ribbon-vertical-left-wrapper",
+            "icon":"icofont icofont-love",
+            "class":"ribbon-secondary ribbon-vertical-left",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-vertical-left-wrapper",
+            "icon":"icon-gift",
+            "class":"ribbon-primary ribbon-vertical-left",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-vertical-left-wrapper",
+            "icon":"icon-signal",
+            "class":"ribbon-success ribbon-vertical-left",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-vertical-right-wrapper",
+            "icon":"fa fa-chain-broken",
+            "class":"ribbon-info ribbon-vertical-right",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-vertical-right-wrapper",
+            "icon":"fa fa-ticket",
+            "class":"ribbon-warning ribbon-vertical-right",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-vertical-right-wrapper",
+            "icon":"fa fa-taxi",
+            "class":"ribbon-danger ribbon-vertical-right",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        }
+
+    ],
+    "bookmark":[
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-bookmark ribbon-secondary",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper ribbon-primary",
+            "class":"ribbon-bookmark ribbon-primary",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-bookmark ribbon-success",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-bookmark ribbon-right ribbon-info",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-bookmark ribbon-right ribbon-warning",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-bookmark ribbon-right ribbon-danger",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        }
+
+    ],
+    "verticalright":[
+          {
+            "card":"ribbon-vertical-left-wrapper",
+            "icon":"icofont icofont-love",
+            "class":"ribbon-bookmark ribbon-vertical-left ribbon-secondary",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-vertical-left-wrapper",
+            "icon":"icon-gift",
+            "class":"ribbon-bookmark ribbon-vertical-left ribbon-primary",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-vertical-left-wrapper",
+            "icon":"icon-signal",
+            "class":"ribbon-bookmark ribbon-vertical-left ribbon-success",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-vertical-right-wrapper",
+            "icon":"icofont icofont-love",
+            "class":"ribbon-bookmark ribbon-vertical-right ribbon-info",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-vertical-right-wrapper",
+            "icon":"icon-gift",
+            "class":"ribbon-bookmark ribbon-vertical-right ribbon-warning",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-vertical-right-wrapper",
+            "icon":"icon-signal",
+            "class":"ribbon-bookmark ribbon-vertical-right ribbon-danger",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        }
+    ],
+    "clip":[ 
+         {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-clip ribbon-secondary",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-clip ribbon-primary",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper",
+            "class":"ribbon-clip ribbon-success",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper-right",
+            "class":"ribbon-clip-right ribbon-right ribbon-info",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper-right",
+            "class":"ribbon-clip-right ribbon-right ribbon-warning",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper-right",
+            "class":"ribbon-clip-right ribbon-right ribbon-danger",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        }
+],
+    "ribbon":[
+    
+        {
+            "card":"ribbon-wrapper-bottom",
+            "class":"ribbon-clip-bottom ribbon-secondary",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper-bottom",
+            "class":"ribbon-clip-bottom ribbon-primary",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper-bottom",
+            "class":"ribbon-clip-bottom ribbon-success",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper-bottom",
+            "class":"ribbon-clip-bottom-right ribbon-info",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper-bottom",
+            "class":"ribbon-clip-bottom-right ribbon-warning",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        },
+        {
+            "card":"ribbon-wrapper-bottom",
+            "class":"ribbon-clip-bottom-right ribbon-danger",
+            "lorn":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+        }
+
+    ]
+}

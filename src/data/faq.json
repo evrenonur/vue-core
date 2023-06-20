@@ -1,0 +1,88 @@
+{
+    "featured":[
+        {
+            "imge":"faq/1.jpg",
+            "title":"Web Design",
+            "desc":"A Web Designing course belongs to the field of Computer It enables students to learn various techniques.",
+            "date":"Aug 15, 2023",
+            "star":"fa-star",
+            "star1":"fa-star-o"
+        },
+        {
+            "imge":"faq/2.jpg",
+            "title":"Web Development",
+            "desc":"A Web Development course belongs to the field of Computer It enables students to learn various techniques.",
+            "date":"June 20, 2023",
+            "star":"fa-star-o",
+            "star1":"fa-star-o"
+        },
+        {
+            "imge":"faq/3.jpg",
+            "title":"UI Design",
+            "desc":"User interface design (UI) is the design for machines and software, such as mobile devices, computers.",
+            "date":"Aug 15, 2023",
+            "star":"fa-star",
+            "star1":"fa-star-half-o"
+        },
+        {
+            "imge":"faq/4.jpg",
+            "title":"UX Design",
+            "desc":"User Experience design (UX) is the design for machines and software, such as mobile devices, computers.",
+            "date":"July 04, 2023",
+            "star":"fa-star-half-o",
+            "star1":"fa-star-o"
+        }
+    ],
+    "articles": [
+        {
+            "title": "Article Base Video",
+            "icon": "codepen",
+            "desc": "The web is a very big place, and if you are the typical internet user."
+        },
+        {
+            "title": "Knows your sources",
+            "icon": "codepen",
+            "desc": "A book giving information on many subjects or on many aspects of one subject."
+        },
+        {
+            "title": "Sources credible/reliable",
+            "icon": "codepen",
+            "desc": "Simple demos of frequently asked questions about using the information resources"
+        }
+    ],
+    "articles1": [
+        {
+           
+            "title": "Validate website",
+            "icon": "file-text",
+            "desc": "Website is the process of ensuring that the pages on the website conform."
+        },
+        {
+            "title": "Tailwind Design",
+            "icon": "file-text",
+            "desc": "Tailwind is so low-level, it never encourages you to design the same site twice."
+        },
+        {
+            "title": "Knows your sources",
+            "icon": "file-text",
+            "desc": "A book giving information on many subjects or on many aspects of one subject."
+        }
+    ],
+    "articles2": [
+        {
+             "title": "Sources Demos",
+            "icon": "youtube",
+             "desc": "Simple demos of frequently asked questions about using the information resources"
+        },
+        {
+            "title": "Validate Html",
+            "icon": "youtube",
+            "desc": "Website is the process of ensuring that the pages on the website conform."
+        },
+        {
+            "title": "Web Design",
+            "icon": "youtube",
+            "desc": "Web is so high-level, it never encourages you to design the same site twice"
+        }
+    ]
+}

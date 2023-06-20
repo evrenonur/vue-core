@@ -1,0 +1,175 @@
+{
+    "friends":[
+        {
+            "image":"user/2.png",
+            "StatusClass":"social-online", 
+            "name":"Bucky Barnes", 
+            "email":"winter@gmail.com"
+        },
+        {
+            "image":"user/10.jpg",
+            "StatusClass":"social-busy", 
+            "name":"Sarah Loren", 
+            "email":"barnes@gmail.com"
+        },
+        {
+            "image":"user/6.jpg",
+            "StatusClass":"social-offline",
+             "name":"Jason Borne", 
+             "email":"jasonb@gmail.com"
+            },
+        {
+            "image":"user/8.jpg",
+            "StatusClass":"social-offline", 
+            "name":"Comeren Diaz", 
+            "email":"comere@gmail.com"
+        },
+        {
+            "image":"user/14.png",
+            "StatusClass":"social-online",
+             "name":"Andew Jon", 
+             "email":"andrewj@gmail.com"
+            },
+        {
+            "image":"user/4.jpg",
+            "StatusClass":"social-busy", 
+            "name":"Johny Waston", 
+            "email":"johny@gmail.com"
+        },
+        {
+            "image":"user/3.png",
+            "StatusClass":"social-offline", 
+            "name":"Johny William", 
+            "email":"johnyw@gmail.com"
+        },
+        {
+            "image":"user/2.png",
+            "StatusClass":"social-online", 
+            "name":"Bucky Barnes", 
+            "email":"winter@gmail.com"
+        },
+        {
+            "image":"user/10.jpg",
+            "StatusClass":"social-busy", 
+            "name":"Sarah Loren", 
+            "email":"barnes@gmail.com"
+        },
+        {
+            "image":"user/6.jpg",
+            "StatusClass":"social-offline", 
+            "name":"Jason Borne", 
+            "email":"jasonb@gmail.com"
+        },
+        {
+            "image":"user/8.jpg",
+            "StatusClass":"social-offline", 
+            "name":"Comeren Diaz", 
+            "email":"comere@gmail.com"
+        },
+        {
+            "image":"user/14.png",
+            "StatusClass":"social-online", 
+            "name":"Andew Jon", 
+            "email":"andrewj@gmail.com"
+        },
+        {
+            "image":"user/4.jpg",
+            "StatusClass":"social-busy", 
+            "name":"Johny Waston", 
+            "email":"johny@gmail.com"
+        },
+        {
+            "image":"user/3.png",
+            "StatusClass":"social-offline", 
+            "name":"Johny William", 
+            "email":"johnyw@gmail.com"
+        } 
+    ],
+    "activity":[
+        {
+            "name":"Andew Jon",
+            "image":"user/10.jpg"
+        },
+        {
+            "name":"Johny Waston",
+            "image":"user/3.jpg"
+        },
+        {
+            "name":"Comeren Diaz",
+            "image":"user/5.jpg"
+        },
+        {
+            "name":"Sarah Loren",
+            "image":"user/4.jpg"
+        },
+        {
+            "name":"Johny Waston",
+            "image":"user/3.jpg"
+        },
+        {
+            "name":"Comeren Diaz",
+            "image":"user/5.jpg"
+        }
+    ],
+    "post":[
+        {
+            "id":1,
+            "name":"Jason Borne",
+            "msg":"we are working for the dance and sing songs. this car is very awesome for the youngster. please vote this car and like our post",
+            "class":"your-msg",
+            "image":"user/1.jpg",
+            "date":"1 Year Ago "
+        },
+        {
+            "id":2,
+            "name":"Alexendra Dhadio",
+            "msg":"yes, really very awesome car i see the features of this car in the official website of #Mercedes-Benz and really impressed :-)",
+            "class":"other-msg",
+            "image":"user/2.png",
+            "date":"1 Month Ago "
+        },
+        {
+            "id":3,
+            "name":"Olivia Jon",
+            "msg":"i like lexus cars, lexus cars are most beautiful with the awesome features, but this car is really outstanding than lexus",
+            "class":"other-msg",
+            "image":"user/3.png",
+            "date":"15 Days Ago"
+        },
+        {
+            "id":4,
+            "name":"Issa Bell",
+            "msg":"we are working for the dance and sing songs. this car is very awesome for the youngster. please vote this car and like our post",
+            "class":"your-msg",
+            "image":"user/1.jpg",
+            "date":"1 Year Ago"
+        }
+       
+    ],
+    "addfriend":[
+        {
+            "image":"user/2.png",
+            "name":"Jason Borne"
+        },
+        {
+            "image":"user/3.png",
+            "name":"Anna Mull"
+        },
+        {
+            "image":"user/3.jpg",
+            "name":"Dion Cast"
+        },
+        {
+            "image":"user/4.jpg",
+            "name":"Karlene Lex"
+        },
+        {
+            "image":"user/8.jpg",
+            "name":"Vella Chism"
+        },
+        {
+            "image":"user/10.jpg",
+            "name":"Wai Schalk"
+        }
+    ]
+}

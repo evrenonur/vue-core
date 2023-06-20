@@ -1,0 +1,40 @@
+<template>
+     <div class="col-xl-4 col-lg-6 box-col-33">
+                <div class="card">
+                  <div class="card-header pb-0">
+                    <h4>Net Banking</h4>
+                  </div>
+                  <div class="card-body">
+                    <form class="theme-form row">
+                      <div class="mb-3 col-12">
+                        <input class="form-control" type="text" placeholder="AC Holder name">
+                      </div>
+                      <div class="mb-3 col-12">
+                        <input class="form-control" type="text" placeholder="Account number">
+                      </div>
+                      <div class="mb-3 col-sm-6 p-r-0">
+                        <select class="form-select" size="1">
+                          <option>Select Bank</option>
+                          <option>SBI</option>
+                          <option>ICICI</option>
+                          <option>KOTAK</option>
+                          <option>BOB</option>
+                        </select>
+                      </div>
+                      <div class="mb-3 col-sm-6">
+                        <input class="form-control" type="text" placeholder="ICFC code">
+                      </div>
+                      <div class="mb-3 col-12">
+                        <input class="form-control" type="number" placeholder="Enter mobile number">
+                      </div>
+                      <div class="mb-3 col-12">
+                        <input class="form-control" type="text" placeholder="Other Details">
+                      </div>
+                      <div class="col-12">
+                        <button class="btn btn-primary btn-block" type="button" title="">Submit</button>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+</template>

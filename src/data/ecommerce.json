@@ -1,0 +1,189 @@
+{
+    "invoice":[
+        { "title":"Brown Dress","desc":"Aask - Brown Polyester Blend Women's Fit & Flare Dress.", "hours": "5", "rate": "$75", "Subtotal": "$375.00" },
+        { "title":"Red Shirt","desc":"Wild West - Red Cotton Blend Regular Fit Men's Formal Shirt.", "hours": "3", "rate": "$75", "Subtotal": "$225.00" },
+        { "title":"Flower Dress","desc":"Skyblue Flower Printed Sleevless Strappy Dress.", "hours": "10", "rate": "$75", "Subtotal": "$750.00" },
+        { "title":"Red Skirt","desc":"R L F - Red Cotton Blend Women's A-Line Skirt.", "hours": "10", "rate": "$75", "Subtotal": "$750.00" }
+    ],
+    "whislist":[
+        {
+            "name":"Women's Top",
+            "img":"ecommerce/01.jpg",
+            "star1":"fa-star-o",
+            "star2":"fa-star-o",
+            "price":"220",
+            "color":"text-success",
+            "stock":"In stock" 
+        },
+        {
+            "name":"Men's Jacket",
+            "img":"ecommerce/02.jpg",
+            "star1":"fa-star",
+            "star2":"fa-star-half-o",
+            "price":"250",
+            "color":"text-danger",
+            "stock":"Out of stock" 
+        },
+        {
+            "name":"Women's T-shirt",
+            "img":"ecommerce/03.jpg",
+            "star1":"fa-star",
+            "star2":"fa-star-half-o",
+            "price":"200",
+            "color":"text-danger",
+            "stock":"Out of stock" 
+        },
+        {
+            "name":"Denim Jacket",
+            "img":"ecommerce/04.jpg",
+            "star1":"fa-star-half-o",
+            "star2":"fa-star-o",
+            "price":"300",
+            "color":"text-success",
+            "stock":"In stock" 
+        },
+        {
+            "name":"Women's Dress",
+            "img":"ecommerce/05.jpg",
+            "star1":"fa-star-half-o",
+            "star2":"fa-star-o",
+            "price":"150",
+            "color":"text-danger",
+            "stock":"Out of stock" 
+        },
+        {
+            "name":"Women's Jacket",
+            "img":"ecommerce/06.jpg",
+            "star1":"fa-star",
+            "star2":"fa-star",
+            "price":"250",
+            "color":"text-success",
+            "stock":"In stock" 
+        },
+        {
+            "name":"Women's Dress",
+            "img":"ecommerce/05.jpg",
+            "star1":"fa-star-half-o",
+            "star2":"fa-star-o",
+            "price":"150",
+            "color":"text-danger",
+            "stock":"Out of stock" 
+        },
+        {
+            "name":"Men's Shirt",
+            "img":"ecommerce/07.jpg",
+            "star1":"fa-star",
+            "star2":"fa-star-o",
+            "price":"210",
+            "color":"text-success",
+            "stock":"In stock" 
+        },
+        {
+            "name":"Men's Shirt",
+            "img":"ecommerce/08.jpg",
+            "star1":"fa-star-half-o",
+            "star2":"fa-star-o",
+            "price":"150",
+            "color":"text-danger",
+            "stock":"out of stock" 
+        },
+        {
+            "name":"Women's Top",
+            "img":"ecommerce/01.jpg",
+            "star1":"fa-star-o",
+            "star2":"fa-star-o",
+            "price":"120",
+            "color":"text-danger",
+            "stock":"Out of stock" 
+        },
+        {
+            "name":"Men's Jacket",
+            "img":"ecommerce/02.jpg",
+            "star1":"fa-star",
+            "star2":"fa-star-half-o",
+            "price":"300",
+            "color":"text-success",
+            "stock":"In stock" 
+        },
+        {
+            "name":" Women's T-shirt",
+            "img":"ecommerce/03.jpg",
+            "star1":"fa-star",
+            "star2":"fa-star-half-o",
+            "price":"150",
+            "color":"text-danger",
+            "stock":"Out of stock" 
+        }
+       
+            
+    ],
+    "pricing":[
+        {
+            "id":1,
+            "title":"standard",
+            "price":"$10",
+            "disk":"50GB",
+            "email":"50",
+            "bandwidth":"50GB",
+            "Sub":"10",
+            "domains":"15"
+        },
+        {
+            "id":2,
+            "title":"business",
+            "price":"$20",
+            "disk":"60GB",
+            "email":"60",
+            "bandwidth":"60GB",
+            "Sub":"15",
+            "domains":"20"
+        },
+        {
+            "id":3,
+            "title":"PREMIUM ",
+            "price":"$30",
+            "disk":"70GB",
+            "email":"70",
+            "bandwidth":"70GB",
+            "Sub":"25",
+            "domains":"30"
+        },
+        {
+            "id":4,
+            "title":"auther pack",
+            "price":"$40",
+            "disk":"80GB",
+            "email":"80",
+            "bandwidth":"80GB",
+            "Sub":"25",
+            "domains":"30"
+        }
+
+    ],
+    "simplePricing":[
+        {
+            "id":1,
+            "title":"Standard",
+            "price":"$15",
+            "sub": "Standard Plan"
+        },
+        {
+            "id":2,
+            "title":"Business",
+            "price":"$25",
+            "sub": "Business Plan"
+        },
+        {
+            "id":3,
+            "title":"Premium",
+            "price":"$35",
+            "sub": "Premium Plan"
+        },
+        {
+            "id":4,
+            "title":"Extra",
+            "price":"$45",
+            "sub": "Extra Plan"
+        }
+    ]
+}

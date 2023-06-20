@@ -1,0 +1,142 @@
+{
+    "featured":[
+        {
+            "imge":"faq/1.jpg",
+            "title":"Web Design",
+            "desc":"A Web Designing course belongs to the field of Computer Science and IT. It enables students to learn",
+            "date":"Jan 08, 2023",
+            "star":"fa-star",
+            "star1":"fa-star"
+        },
+        {
+            "imge":"faq/2.jpg",
+            "title":"Web Development",
+            "desc":"This course is designed to start you on a path toward future studies in web development and design.",
+            "date":"Feb 18, 2023",
+            "star":"fa-star-o",
+            "star1":"fa-star-o"
+        },
+        {
+            "imge":"faq/3.jpg",
+            "title":"UI Design",
+            "desc":"User interface design (UI) is the design for machines and software, such as mobile devices, computers.",
+            "date":"Aug 04, 2023",
+            "star":"fa-star-o",
+            "star1":"fa-star-o"
+        },
+        {
+            "imge":"faq/4.jpg",
+            "title":"UX Design",
+            "desc":"A Web Designing course belongs to the field of Computer Science and IT. It enables students to learn",
+            "date":"July 04, 2023",
+            "star":"fa-star",
+            "star1":"fa-star-half-o"
+        },
+        {
+            "imge":"faq/3.jpg",
+            "title":"UI Design",
+            "desc":"User interface design (UI) is the design for machines and software, such as mobile devices, computers.",
+            "date":"June 08, 2023",
+            "star":"fa-star",
+            "star1":"fa-star"
+        },
+        {
+            "imge":"faq/4.jpg",
+            "title":"UX Design",
+            "desc":"This course is designed to start you on a path toward future studies in web development and design.",
+            "date":"Sept 19, 2023",
+            "star":"fa-star",
+            "star1":"fa-star-half-o"
+        },
+        {
+            "imge":"faq/1.jpg",
+            "title":"Web Design",
+            "desc":"Graphic design is a craft where professionals create visual content to communicate messages",
+            "date":"Oct 25, 2023",
+            "star":"fa-star",
+            "star1":"fa-star-half-o"
+        },
+        {
+            "imge":"faq/2.jpg",
+            "title":"Web Development",
+            "desc":"A content developer is typically professional who creates digital and physical content including blog posts,",
+            "date":"Dec 15, 2023",
+            "star":"fa-star",
+            "star1":"fa-star-o"
+        }
+    ],
+    "category":[
+        {
+            "articles":"Any other legal pages I should know about?",
+            "articles1":"Policies have wide acceptance among editors",
+            "articles2":"Guidelines are sets of best practices supported.",
+            "articles3":"Editors should attempt to follow guidelines. ",
+            "articles4":"But also the leap into electronic typesetting,",
+            "see":"40"
+        },
+        {
+            "articles":"Does Moment have an API or automatic export?",
+            "articles1":"It was popularised in the 1960s with the release ",
+            "articles2":"Etraset sheets containing Lorem Ipsum passages",
+            "articles3":"Desktop publishing software like Aldus",
+            "articles4":"They are best treated with common sense.",
+            "see":"90"
+        },
+        {
+            "articles":"WordPress Site Maintenance",
+            "articles1":"The point of using Lorem Ipsum it a more-or-less",
+            "articles2":"Normal distribution of letters, as opposed to ",
+            "articles3":"Set a regular maintenance schedule.",
+            "articles4":"Repetition, injected humour, or non-characteristi",
+            "see":"40"
+        },
+        {
+            "articles":"Can I change my plan later?",
+            "articles1":"Nemo enim ipsam voluptatem quia voluptas sit",
+            "articles2":"But also the leap into electronic typesetting,",
+            "articles3":"Sed quia non numquam eius modi tempora ",
+            "articles4":"You can easily change plans at any time.",
+            "see":"90"
+        },
+        {
+            "articles":"How do I pay for the Premium Plan?",
+            "articles1":"Premium plans are billed as a single yearly payment.",
+            "articles2":"Monthly plan are bill every month of signup.",
+            "articles3":"You can set Monthly for Premium plan.",
+            "articles4":"unknown printer took galley.",
+            "see":"50"
+        },
+        {
+            "articles":"What is your Shopping Policy",
+            "articles1":"The point of using Lorem Ipsum ",
+            "articles2":"It has a more-or-less distribution of letters",
+            "articles3":"Et harum quidem rerum facilis est et expedita ",
+            "articles4":"Nam libero tempore, soluta nobis est eligendi",
+            "see":"26"
+        },
+        {
+            "articles":"How can I change the component?",
+            "articles1":"When our power of choice is untrammelled ",
+            "articles2":"This works through various methods of site tracking",
+            "articles3":"who fail in their duty through weakness ",
+            "articles4":"At vero eos et accusamus et iusto",
+            "see":"10"
+        },
+        {
+            "articles":"How does it work?",
+            "articles1":"Quis autem vel eum iure reprehenderit ",
+            "articles2":"Ducimus  blanditiis praesentium voluptatum",
+            "articles3":"Omnis voluptas assumenda est ",
+            "articles4":"This works through various methods of site tracking",
+            "see":"21"
+        },
+        {
+            "articles":"What is Lorem Ipsum?",
+            "articles1":"Common language regular than the existing languages.",
+            "articles2":"The first line of Lorem Ipsum,  Lorem ipsum",
+            "articles3":"Thus comes from a line in section",
+            "articles4":"First true generator on the Internet",
+            "see":"34"
+        }
+    ]
+}

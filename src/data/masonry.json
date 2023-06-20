@@ -1,0 +1,415 @@
+{
+    "photo":[
+        {
+          "title":"Johan Deo",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"lightgallry/01.jpg"
+        },
+        {
+          "title":"Dev John",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"lightgallry/02.jpg"
+        },
+        {
+          "title":"Johan Deo",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"lightgallry/03.jpg"
+        },
+        {
+          "title":"Comeren Diaz",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"lightgallry/04.jpg"
+        },
+        {
+          "title":"Andew Jon",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"lightgallry/05.jpg"
+        },
+        {
+          "title":"Sarah Loren",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"lightgallry/011.jpg"
+        },
+        {
+          "title":"Andew Jon",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"lightgallry/010.jpg"
+        },
+        {
+          "title":"Bucky Barnes",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"lightgallry/08.jpg"
+        }
+      ],
+      "search":[
+        {
+          "id":1,
+          "title":"Portfolio Title",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"big-lightgallry/01.jpg"
+        },
+        {
+          "id":2,
+          "title":"Portfolio Title",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"big-lightgallry/02.jpg"
+        },
+        {
+          "id":3,
+          "title":"Portfolio Title",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"big-lightgallry/03.jpg"
+        },
+        {
+          "id":4,
+          "title":"Portfolio Title",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"big-lightgallry/04.jpg"
+        },
+        {
+          "id":5,
+          "title":"Portfolio Title",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"big-lightgallry/05.jpg"
+        },
+        {
+          "id":6,
+          "title":"Portfolio Title",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"big-lightgallry/011.jpg"
+        },
+        {
+          "id":7,
+          "title":"Portfolio Title",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"big-lightgallry/010.jpg"
+        },
+        {
+          "id":8,
+          "title":"Portfolio Title",
+          "descr":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\"s standard dummy.",
+          "image":"big-lightgallry/08.jpg"
+        }
+      ],
+      "imgs": [
+        {
+          "title": "Portfolio Title",
+          "descr":
+            "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+          "image": "lightgallry/01.jpg"
+        },
+        {
+          "title": "Portfolio Title",
+          "descr":
+            "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+          "image": "lightgallry/02.jpg"
+        },
+        {
+          "title": "Portfolio Title",
+          "descr":
+            "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+          "image": "lightgallry/03.jpg"
+        },
+        {
+          "title": "Portfolio Title",
+          "descr":
+            "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+          "image": "lightgallry/04.jpg"
+        },
+        {
+          "title": "Portfolio Title",
+          "descr":
+            "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+          "image": "lightgallry/05.jpg"
+        },
+        {
+          "title": "Portfolio Title",
+          "descr":
+            "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+          "image": "lightgallry/011.jpg"
+        },
+        {
+          "title": "Portfolio Title",
+          "descr":
+            "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+          "image": "lightgallry/010.jpg"
+        },
+        {
+          "title": "Portfolio Title",
+          "descr":
+            "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+          "image": "lightgallry/08.jpg"
+        },
+        {
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+            "image": "lightgallry/01.jpg"
+          },
+          {
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+            "image": "lightgallry/02.jpg"
+          },
+          {
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+            "image": "lightgallry/03.jpg"
+          },
+          {
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+            "image": "lightgallry/04.jpg"
+          },
+          {
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+            "image": "lightgallry/05.jpg"
+          },
+          {
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+            "image": "lightgallry/011.jpg"
+          },
+          {
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+            "image": "lightgallry/010.jpg"
+          },
+          {
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.",
+            "image": "lightgallry/08.jpg"
+          }
+      ],
+      "imagearray":[
+        {  
+            "image": "masonry/1.jpg",
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           },
+           {       
+             "image":"masonry/2.jpg",
+             "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           },
+           {        
+            "image": "masonry/3.jpg",
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           },
+           {    
+             "image":"masonry/4.jpg",
+             "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           },
+           {  
+            "image": "masonry/5.jpg",
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           },
+           {       
+            "image": "masonry/6.jpg",
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           },
+           {       
+             "image":"masonry/8.jpg",
+             "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           },
+           {        
+             "image":"masonry/9.jpg",
+             "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           },
+           {      
+             "image":"masonry/10.jpg",
+             "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           },
+           {      
+             "image":"masonry/11.jpg",
+             "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           },
+           {         
+            "image": "masonry/12.jpg",
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           },
+           {          
+            "image": "masonry/14.jpg",
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           },
+           {          
+            "image": "masonry/15.jpg",
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           },
+           {
+            "image": "masonry/13.jpg",
+            "title": "Portfolio Title",
+            "descr":
+              "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."
+           }
+      ],
+      "images":[
+        {  
+          "image": "masonry/1.jpg"
+         },
+         {       
+           "image":"masonry/2.jpg"
+         },
+         {        
+          "image": "masonry/3.jpg"
+         },
+         {    
+           "image":"masonry/4.jpg"
+         },
+         {  
+          "image": "masonry/5.jpg"
+         },
+         {       
+          "image": "masonry/6.jpg"
+         },
+         {       
+          "image": "masonry/7.jpg"
+         },
+         {       
+           "image":"masonry/8.jpg"
+         },
+         {        
+           "image":"masonry/9.jpg"
+         },
+         {      
+           "image":"masonry/10.jpg"
+         },
+         {      
+           "image":"masonry/11.jpg"
+         },
+         {         
+          "image": "masonry/12.jpg"
+         },
+         {          
+          "image": "masonry/13.jpg"
+         },
+         {          
+          "image": "masonry/14.jpg"
+         },
+         {
+          "image": "masonry/15.jpg"
+         },
+         {
+          "image": "masonry/1.jpg"
+         }
+      ],
+      "imags":[
+        {
+          "image":"lightgallry/01.jpg"
+        },
+        {
+          "image":"lightgallry/02.jpg"
+        },
+        {
+          "image":"lightgallry/03.jpg"
+        },
+        {
+          "image":"lightgallry/04.jpg"
+        },
+        {
+          "image":"lightgallry/05.jpg"
+        },
+        {
+          "image":"lightgallry/011.jpg"
+        },
+        {
+          "image":"lightgallry/010.jpg"
+        },
+        {
+          "image":"lightgallry/08.jpg"
+        },
+        {
+          "image": "lightgallry/013.jpg"
+        },
+        {
+          "image": "lightgallry/014.jpg"
+        },
+        {
+          "image": "lightgallry/015.jpg"
+        },
+        {
+          "image": "lightgallry/016.jpg"
+        }
+      ],
+      "hover":[
+        {
+         "image":"lightgallry/08.jpg"
+        },
+        {
+         "image":"lightgallry/09.jpg"
+        },
+        {
+         "image":"lightgallry/010.jpg"
+        },
+        {
+         "image":"lightgallry/011.jpg"
+        }
+      ],
+      "aos":[
+        { "image":"masonry/1.jpg", "animation":"fade-down"},
+        {"image":"masonry/2.jpg", "animation":"zoom-out-down"},
+        { "image":"masonry/3.jpg", "animation":"flip-down"},
+        {"image":"masonry/4.jpg","animation":"fade-up" },
+        {"image":"masonry/5.jpg","animation":"flip-down" },
+        { "image":"masonry/6.jpg", "animation":"fade-up" },
+        { "image":"masonry/7.jpg", "animation":"flip-down" },
+        { "image":"masonry/8.jpg", "animation":"fade-up"},
+        { "image":"masonry/9.jpg", "animation":"flip-down" },
+        { "image":"masonry/10.jpg", "animation":"fade-up" },
+        { "image":"masonry/11.jpg", "animation":"flip-down" },
+        { "image":"masonry/12.jpg", "animation":"fade-up" },
+        { "image":"masonry/14.jpg", "animation":"flip-down" },
+        { "image":"masonry/15.jpg", "animation":"flip-left" },
+        { "image":"masonry/13.jpg", "animation":"flip-down" },
+         { "image":"masonry/4.jpg", "animation":"zoom-out" },
+         { "image":"masonry/5.jpg", "animation":"flip-right" },
+         { "image":"masonry/6.jpg", "animation":"zoom-out" },
+         { "image":"masonry/7.jpg", "animation":"zoom-out-up" },
+         { "image":"masonry/8.jpg", "animation":"zoom-out-down" },
+         { "image":"masonry/9.jpg", "animation":"flip-down" },
+         { "image":"masonry/10.jpg", "animation":"slide-up" },
+         { "image":"masonry/9.jpg", "animation":"flip-down" },
+         { "image":"masonry/10.jpg", "animation":"fade-up" },
+         { "image":"masonry/11.jpg", "animation":"flip-down" },
+         { "image":"masonry/12.jpg", "animation":"fade-up" },
+         { "image":"masonry/14.jpg", "animation":"flip-down" },
+         { "image":"masonry/15.jpg", "animation":"flip-left" },
+         { "image":"masonry/13.jpg", "animation":"flip-down" },
+         { "image":"masonry/4.jpg", "animation":"zoom-out" },
+         { "image":"masonry/5.jpg", "animation":"flip-right" },
+         { "image":"masonry/6.jpg", "animation":"zoom-out" },
+         { "image":"masonry/7.jpg", "animation":"zoom-out-up" }
+      ]
+}

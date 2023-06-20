@@ -1,0 +1,19 @@
+{
+    "alignment":[
+        {"class":"pagination-primary","class1":"m-b-30"},
+        {"class":"justify-content-center pagination-primary","class1":"m-b-30"},
+        {"class":"justify-content-end pagination-primary","class1":"mb-0"}
+    ],
+    "color":[
+        {"color":"pagination-primary"},
+        {"color":"pagination-secondary"},
+        {"color":"pagination-success"},
+        {"color":"pagination-info"},
+        {"color":"pagination-warning"},
+        {"color":"pagination-danger"}
+    ],
+    "size":[
+        {"size":"pagination-lg"},
+        {"size":"pagination-sm"}
+    ]
+}

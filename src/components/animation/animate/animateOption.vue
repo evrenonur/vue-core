@@ -1,0 +1,82 @@
+<template>
+     <div class="col-sm-12">
+                <div class="card">
+                  <div class="card-header pb-0">
+                    <h5>How to use it?</h5><span>All you have to do is to add animation name class attribute to html element, like :<code>Fade</code></span>
+                  </div>
+                  <div class="card-body options">
+                    <div>flash</div>
+                    <div>pulse</div>
+                    <div>rubberBand</div>
+                    <div>shake</div>
+                    <div>swing</div>
+                    <div>tada</div>
+                    <div>wobble</div>
+                    <div>jello</div>
+                    <div>bounceIn</div>
+                    <div>bounceInDown</div>
+                    <div>bounceInLeft</div>
+                    <div>bounceInRight</div>
+                    <div>bounceInUp</div>
+                    <div>bounceOut</div>
+                    <div>bounceOutDown</div>
+                    <div>bounceOutLeft</div>
+                    <div>bounceOutRight</div>
+                    <div>bounceOutUp</div>
+                    <div>bounceOut</div>
+                    <div>bounceOutDown</div>
+                    <div>bounceOutLeft</div>
+                    <div>bounceOutRight</div>
+                    <div>bounceOutUp</div>
+                    <div>fadeOut</div>
+                    <div>fadeOutDown</div>
+                    <div>fadeOutDownBig</div>
+                    <div>fadeOutLeft</div>
+                    <div>fadeOutLeftBig</div>
+                    <div>fadeOutRight</div>
+                    <div>fadeOutRightBig</div>
+                    <div>fadeOutUp</div>
+                    <div>fadeOutUpBig</div>
+                    <div>flip</div>
+                    <div>flipInX</div>
+                    <div>flipInY</div>
+                    <div>flipOutX</div>
+                    <div>flipOutY</div>
+                    <div>lightSpeedIn</div>
+                    <div>lightSpeedOut</div>
+                    <div>rotateIn</div>
+                    <div>rotateInDownLeft</div>
+                    <div>rotateInDownRight</div>
+                    <div>rotateInUpLeft</div>
+                    <div>rotateInUpRight</div>
+                    <div>rotateOut</div>
+                    <div>rotateOutDownLeft</div>
+                    <div>rotateOutDownRight</div>
+                    <div>rotateOutUpLeft</div>
+                    <div>rotateOutUpRight</div>
+                    <div>slideInUp</div>
+                    <div>slideInDown</div>
+                    <div>slideInLeft</div>
+                    <div>slideInRight</div>
+                    <div>slideOutUp</div>
+                    <div>slideOutDown</div>
+                    <div>slideOutLeft</div>
+                    <div>slideOutRight</div>
+                    <div>zoomIn</div>
+                    <div>zoomInDown</div>
+                    <div>zoomInLeft</div>
+                    <div>zoomInRight</div>
+                    <div>zoomInUp</div>
+                    <div>zoomOut</div>
+                    <div>zoomOutDown</div>
+                    <div>zoomOutLeft</div>
+                    <div>zoomOutRight</div>
+                    <div>zoomOutUp</div>
+                    <div>hinge</div>
+                    <div>jackInTheBox</div>
+                    <div>rollIn</div>
+                    <div>rollOut</div>
+                  </div>
+                </div>
+     </div>
+</template>

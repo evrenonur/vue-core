@@ -1,0 +1,95 @@
+{
+    "activity":[
+        {
+            "id":1,
+            "color":"bg-color-primary",
+            "name":"Any desktop publishing pack ages editors.",
+            "date":"16 Apr 2023",
+            "hour":"11 hours ago"
+        },
+        {
+            "id":2,
+            "color":"bg-color-secondary",
+            "name":"Renewed account with this new premium plan popular belief.",
+            "date":"20 Mar 2023 ",
+            "hour":"14 hours ago"
+        },  {
+            "id":3,
+            "color":"bg-color-success",
+            "name":"Micron to build largest chip factory in US history will distracted.",
+            "date":"12 Feb 2023",
+            "hour":"12 hours ago"
+        },  {
+            "id":4,
+            "color":"bg-color-info",
+            "name":"Share A Case Study On One Of Your Customers will be distracted.",
+            "date":"14 Jan 2023",
+            "hour":"20 hours ago"
+        }
+    ],
+    "table":[
+        {"name":"Men Casual Shirt","date":"10","price":"$4523","StatusClass":"badge-light-success","badge" :"Done"},
+        {"name":"Rayon Women Regular Top","date":"20","price":"$6523","StatusClass":"badge-light-warning","badge" :"Pending"},
+         {"name":"Flower Printed Dress","date":"40","price":"$2823","StatusClass":"badge-light-success","badge" :" Done"},
+          {"name":"Polyester Women Dress","date":"05","price":"$1523","StatusClass":"badge-light-info","badge" :"In Progress"},
+           {"name":"Cotton Regular T-Shirt","date":"08","price":"$2523","StatusClass":"badge-light-warning","badge" :"Pending"},
+           {"name":"Printed Sleev Dress","date":"12","price":"$2623","StatusClass":"badge-light-warning","badge" :"Pending"}
+    ],
+    "employee":[
+        {
+            "id": 1,
+            "img": "user/4.jpg",
+            "name":"John Deo",
+            "online":"14+ Online",
+            "position": "Designer",
+            "skill": "progress-bar bg-primary",
+            "progress":"30%",
+            "exp": "2 Year"
+           
+        },
+        {
+            "id": 2,
+            "img": "user/1.jpg",
+            "name":"Holio Mako",
+            "online":"20+ Online",
+            "position": "Developer",
+            "skill": "progress-bar bg-secondary",
+            "progress":"70%",
+            "exp": "3 Year"
+           
+        },
+        {
+            "id": 3,
+            "img": "user/5.jpg",
+            "name":"Mohsib lara",
+            "online":"99+ Online",
+            "position": "Tester",
+            "skill": "progress-bar bg-primary",
+            "progress":"60%",
+            "exp": "5 Month"
+           
+        },
+        {
+            "id": 4,
+            "img": "user/6.jpg",
+            "name":"Hileri Soli",
+            "online":"150+ Online",
+            "position": "Designer",
+            "skill": "progress-bar bg-secondary",
+            "progress":"30%",
+            "exp": "3 Month"
+           
+        },
+        {
+            "id": 5,
+            "img": "user/7.jpg",
+            "name":"Pusiz bia",
+            "online":"14+ Online",
+            "position": "Designer",
+            "skill": "progress-bar bg-primary",
+            "progress":"90%",
+            "exp": "5 Year"
+           
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "langs":[
+        {
+          "icon":"flag-icon-us",
+          "lan":"English",
+          "span":"(US)"
+        },
+        {
+          "icon":"flag-icon-de",
+          "lan":"Deutsch"
+        },
+         {
+          "icon":"flag-icon-es",
+          "lan":"Español"
+        },
+        {
+          "icon":"flag-icon-fr",
+          "lan":"Français"
+        },
+        {
+          "icon":"flag-icon-pt",
+          "lan":"Português",
+          "span":"(BR)"
+        },
+        {
+          "icon":"flag-icon-cn",
+          "lan":"简体中文"
+        },
+        {
+          "icon":"flag-icon-ae",
+          "lan":"لعربية",
+          "span":"(ae)"
+        }
+       
+      ]
+}

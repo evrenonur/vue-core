@@ -1,0 +1,370 @@
+{
+    "tableData1":[
+        {
+            "id": 1,
+            "img": "dashboard/default/01.png",
+            "firstName": "Ram Jacob",
+            "lastName": "Wolfe",
+            "userName": "RamJacob@twitter",
+            "role": "Developer",
+            "company": "Apple Inc.",
+            "language": "Php",
+            "badgeClass": "badge-light-danger",
+            "credit": "$3500.00",
+            "borderColor": "border-bottom-secondary",
+            "country": "IND"
+          },
+          {
+            "id": 2,
+            "img": "dashboard/default/02.png",
+            "firstName": "John Deo",
+            "lastName": "Gummer",
+            "userName": "JohnDeo@twitter",
+            "role": "Designer",
+            "company": "Hewlett packard",
+            "language": "Html",
+            "badgeClass": "badge-light-success",
+            "credit": "$2400.00",
+            "borderColor": "border-bottom-success",
+            "country": "US"
+          },
+          {
+            "id": 3,
+            "img": "dashboard/default/03.png",
+            "firstName": "Elana John",
+            "lastName": "Cazale",
+            "userName": "ElanaJohn@twitter",
+            "role": "Designer",
+            "company": "Microsoft",
+            "language": "Pug",
+            "badgeClass": "badge-light-danger",
+            "credit": "$2560.00",
+            "borderColor": "border-bottom-info",
+            "country": "UK"
+          },
+          {
+            "id": 4,
+            "img": "dashboard/default/04.png",
+            "firstName": "Meryl Streep",
+            "lastName": "Roberts",
+            "userName": "MerylStreep@twitter",
+            "role": "Developer",
+            "company": "Tata Ltd.",
+            "language": "React",
+            "badgeClass": "badge-light-success",
+            "credit": "$1870.00",
+            "borderColor": "border-bottom-warning",
+            "country": "IDN"
+          },
+          {
+            "id": 5,
+            "img": "dashboard/default/05.png",
+            "firstName": "Emma Stone",
+            "lastName": "Stone",
+            "userName": "EmmaStone@twitter",
+            "role": "Developer",
+            "company": "Wipro Ltd.",
+            "badgeClass": "badge-light-primary",
+            "language": "Vue",
+            "credit": "$4580.00",
+            "borderColor": "border-bottom-danger",
+            "country": "IRN"
+          },
+          {
+            "id": 6,
+            "img": "dashboard/default/01.png",
+            "firstName": "Eliana Jons",
+            "lastName": "Jons",
+            "userName": "ElianaJons@twitter",
+            "role": "Developer",
+            "company": "Info Ltd.",
+            "badgeClass": "badge-light-primary",
+            "language": "Vue",
+            "credit": "$4580.00",
+            "borderColor": "border-bottom-light",
+            "country": "IRN"
+          }
+    ],
+    "inverse":[
+      {
+        "id": 1,
+        "firstName": "Stephan",
+        "lastName": "Laiten",
+        "office": "Tokyo",
+        "role": "Accountant",
+        "salary": "$2100.00",
+        "age": 20,
+        "join": "21/01/2023"
+      },
+      {
+        "id": 2,
+        "firstName": "Fay",
+        "lastName": "Van Damme",
+        "office": "London",
+        "role": "CEO",
+        "salary": "$1420.00",
+        "age": 22,
+        "join": "14/02/2023"
+      },
+      {
+        "id": 3,
+        "firstName": "Brevin",
+        "lastName": "Oleveria",
+        "office": "New York",
+        "role": "Software Engineer",
+        "salary": "$1340.00",
+        "age": 18,
+        "join": "04/06/2023"
+      },
+      {
+        "id": 4,
+        "firstName": "Regina",
+        "lastName": "Ottandy",
+        "office": "France",
+        "role": "Pre-sale Support",
+        "salary": "$3400.00",
+        "age": 25,
+        "join": "10/08/2023"
+      },
+      {
+        "id": 5,
+        "firstName": "Vani",
+        "lastName": "Shah",
+        "office": "Los Angeles",
+        "role": "Senior Developer",
+        "salary": "$3500.00",
+        "age": 28,
+        "join": "23/07/2023"
+      }
+    ],
+    "hoverable":[
+      {
+        "id": 1,
+        "icon": "alert-triangle",
+        "status": "No Signal",
+        "signalName": "Astrid: NE Shared managed",
+        "security": "Medium",
+        "stage": "Triaged",
+        "schedule": "0.33",
+        "bgClass": "bg-light-success font-success",
+        "teamLead": "Chase Nguyen",
+        "font":"font-success"
+      },
+      {
+        "id": 2,
+        "icon": "alert-triangle",
+        "status": "Offline",
+        "signalName": "Cosmo: prod shared ares",
+        "security": "Huge",
+        "stage": "Triaged",
+        "schedule": "0.39",
+        "bgClass": "bg-light-danger font-danger",
+        "teamLead": "Brie Furman",
+        "font":"font-danger"
+      },
+      {
+        "id": 3,
+        "icon": "alert-circle",
+        "status": "Online",
+        "signalName": "Phoenix: prod shared lyra-lists",
+        "security": "Minor",
+        "stage": "No Triaged",
+        "schedule": "3.12",
+        "bgClass": "bg-light-primary font-primary",
+        "teamLead": "Jeremy Lake",
+        "font":"font-primary"
+      },
+      {
+        "id": 4,
+        "icon": "check-circle",
+        "status": "No Signal",
+        "signalName": "Astrid: NE Shared managed",
+        "security": "Negligible",
+        "stage": "triaged",
+        "schedule": "13.18",
+        "bgClass": "bg-light-success font-success",
+        "teamLead": "Angelica Howards",
+        "font":"font-success"
+      },
+      {
+        "id": 5,
+        "icon": "check-circle",
+        "status": "Online",
+        "signalName": "Astrid: NE Shared managed",
+        "security": "Negligible",
+        "stage": "triaged",
+        "schedule": "5.33",
+        "bgClass": "bg-light-danger font-danger",
+        "teamLead": "Diane Okuma",
+        "font":"font-danger"
+      }
+    ],
+    "table2":[
+      {
+        "id": 1,
+        "firstName": "Mark",
+        "name": "Elana Robbert",
+        "email": "ElanaRob@gmail.com",
+        "lastName": "Otto",
+        "exp": "1 Year",
+        "sex": "Male",
+        "contact": "+91 9789887777",
+        "userName": "Mark@twitter",
+        "age": "28",
+        "dessert": "KitKat",
+        "calories": "518",
+        "fat": "26",
+        "price": "20"
+      },
+      {
+        "id": 2,
+        "firstName": "Elana",
+        "name": "Stiphen Deo",
+        "email": "Stiphen@yahoo.com",
+        "lastName": "Thornton",
+        "exp": "6 Month",
+        "sex": "Female",
+        "contact": "+91 9874563210",
+        "userName": "Elana@twitter",
+        "age": "22",
+        "dessert": "Donut",
+        "calories": "452",
+        "fat": "25",
+        "price": "80"
+      },
+      {
+        "id": 3,
+        "firstName": "Larry",
+        "name": "Genelia Ottre",
+        "email": "Genelia@gmail.com",
+        "lastName": "Otthe Birdto",
+        "exp": "2 Days",
+        "sex": "Male",
+        "contact": "+91 8794562135",
+        "userName": "Larry@twitter",
+        "age": "24",
+        "dessert": "Eclair",
+        "calories": "262",
+        "fat": "16",
+        "price": "10"
+      }
+    ],
+    "sizingTablesXl":[
+      {
+        "id": 1,
+        "Name": "Mark Jecno",
+        "Date": "22/08/2023",
+        "Status": "On leave",
+        "statusClass": "font-danger",
+        "hours": "0",
+        "performance": "29/30"
+    },
+    {
+        "id": 2,
+        "Name": "Elana Robbert",
+        "Date": "21/08/2023",
+        "Status": "Present",
+        "statusClass": "font-success",
+        "hours": "10",
+        "performance": "30/30"
+    },
+    {
+        "id": 3,
+        "Name": "John Deo",
+        "Date": "18/08/2023",
+        "Status": "On leave",
+        "statusClass": "font-danger",
+        "hours": "8",
+        "performance": "28/30"
+    }
+    ],
+    "tableData":[
+      {
+        "id": 1,
+        "className": "Crit Cardio",
+        "type": "Gym",
+        "bottom":"border-bottom-secondary",
+        "hours": "9:00 AM - 11:00 AM",
+        "trainer": "Aaron Chapman",
+        "spot": "10"
+    },
+    {
+        "id": 2,
+        "className": "Zumba Dance",
+        "type": "Dance",
+        "bottom":"border-bottom-success",
+        "hours": "8:00 AM - 9:00 AM",
+        "trainer": "Donna Wilson",
+        "spot": "12"
+    },
+    {
+        "id": 3,
+        "className": "Like a butterfly",
+        "type": "Boxing",
+        "bottom":"border-bottom-info",
+        "hours": "9:00 AM - 10:00 AM",
+        "trainer": "Randy Porter",
+        "spot": "13"
+    },
+    {
+        "id": 4,
+        "className": "Pilates Reformer",
+        "type": "Gym",
+        "bottom":"border-bottom-warning",
+        "hours": "7:00 AM - 8:30 AM",
+        "trainer": "Aaron Chapman",
+        "spot": "15"
+    },
+    {
+        "id": 5,
+        "className": "Mind & Body",
+        "type": "Yoga",
+        "hours": "8:00 AM - 9:00 AM",
+        "trainer": "Adam Stewart",
+        "spot": "20"
+    }
+    ],
+    "tableData2":[
+      {
+        "id":1,
+        "film":"Frozen",
+        "released":"2013",
+        "studio":"Disney",
+        "budget":"$150,000,000",
+        "domestic":"$400,953,009"
+      },
+      {
+        "id":2,
+        "film":"Minions",
+        "released":"2015",
+        "studio":"Universal",
+        "budget":"$74,000,000",
+        "domestic":"$336,045,770"
+      },
+      {
+        "id":3,
+        "film":"Zootopia",
+        "released":"2016",
+        "studio":"Disney",
+        "budget":"$150,000,000",
+        "domestic":"$341,268,248"
+      },
+      {
+        "id":4,
+        "film":"Finding Dory",
+        "released":"2016",
+        "studio":"Disney Pixar",
+        "budget":"$175,000,000",
+        "domestic":"$486,295,561"
+      },
+      {
+        "id":5,
+        "film":"Toy Story 3",
+        "released":"2010",
+        "color":"table-success",
+        "studio":"Disney Pixar",
+        "budget":"$200,000,000",
+        "domestic":"$415,004,880"
+      }
+    ]
+}

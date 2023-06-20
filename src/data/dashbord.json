@@ -1,0 +1,236 @@
+{
+    "appointment":[
+        {
+            "id":1,
+            "name":"Ossim keter",
+            "img":"dashboard/default/01.png",
+            "hour":"1 Hour",
+            "date":"16 August",
+            "location":"Pending",
+            "class":"btn-primary",
+            "status":"active-online"
+        },
+        {
+            "id":2,
+            "name":"Venter loren",
+            "img":"dashboard/default/02.png",
+            "hour":"Now",
+            "date":"21 September ",
+            "location":"Done",
+            "icon":"fa fa-check-circle",
+            "class":"btn-secondary",
+            "status":" active-busy"
+        },
+        {
+            "id":3,
+            "name":"Fran loain",
+            "img":"dashboard/default/03.png",
+            "hour":"2 Day After",
+            "date":"06 March",
+            "location":"Pending",
+            "class":"btn-success",
+            "status":"active-offline"
+        },
+        {
+            "id":4,
+            "name":"Loften Horen",
+            "img":"dashboard/default/04.png",
+            "hour":"Day End",
+            "date":"12 February",
+            "location":"Pending",
+            "class":"btn-info",
+            "status":"active-online"
+        },
+        {
+            "id":5,
+            "name":"Loie fenter",
+            "img":"dashboard/default/05.png",
+            "hour":"2 Day After",
+            "date":"06 March",
+            "location":"Pending",
+            "class":"btn-danger",
+            "status":"active-offline"
+        }
+    ],
+    "seller":[
+        {
+            "id":1,
+            "name":"Ossim keter",
+            "img":"dashboard-2/dash-2/01.png",
+            "year":"2023",
+            "product":"Clothes",
+            "date":"16 August",
+            "location":"Pending",
+            "icon":"flag-icon flag-icon-gb",
+            "class":"btn-primary",
+            "status":"Success",
+            "total":"$1,58,652"
+        },
+        {
+            "id":2,
+            "name":"Venter loren",
+            "img":"dashboard-2/dash-2/02.png",
+            "year":"2021",
+            "product":"Branded Shoes",
+            "date":"21 September ",
+            "location":"Done",
+            "icon":"flag-icon flag-icon-us",
+            "class":"btn-secondary",
+            "status":"Success",
+            "total":"$95,025"
+        },
+        {
+            "id":3,
+            "name":"Fran loain",
+            "img":"dashboard-2/dash-2/03.png",
+            "year":"2023",
+            "product":"Electronics",
+            "date":"06 March",
+            "location":"Pending",
+            "icon":"flag-icon flag-icon-za",
+            "class":"btn-success",
+            "status":"Success",
+            "total":"$90,155"
+        },
+        {
+            "id":4,
+            "name":"Loften Horen",
+            "img":"dashboard-2/dash-2/04.png",
+            "year":"2021",
+            "product":"Watch",
+            "date":"12 February",
+            "location":"Pending",
+            "icon":"flag-icon flag-icon-at",
+            "class":"btn-info",
+            "status":"Success",
+            "total":"$80,658"
+        },
+        {
+            "id":5,
+            "name":"Loie fenter",
+            "img":"dashboard-2/dash-2/05.png",
+            "year":"2023",
+            "product":"Jewellery",
+            "date":"30 January",
+            "location":"Pending",
+            "icon":"flag-icon flag-icon-br",
+            "class":"btn-danger",
+            "status":"Success",
+            "total":"$50,652"
+        }
+    ],
+    "selling":[
+        {
+            "id":1,
+            "name":"Nike Shoes",
+            "img":"dashboard-2/product/1.png",
+            "item":"451 item",
+            "total":"-05%",
+            "price":"$49.00"
+        },
+        {
+            "id":2,
+            "name":"Headphone",
+            "img":"dashboard-2/product/2.png",
+            "item":"1657 item",
+            "total":"-20%",
+            "price":"$28.00"
+        },
+        {
+            "id":3,
+            "name":"Tree Pot",
+            "img":"dashboard-2/product/3.png",
+            "item":"32 item",
+            "total":"-12%",
+            "price":"$30.00"
+        },
+        {
+            "id":4,
+            "name":"Black Purse",
+            "img":"dashboard-2/product/4.png",
+            "item":"663 item",
+            "total":"-16%",
+            "price":"$22.00"
+        },
+        {
+            "id":5,
+            "name":"Ck Watch",
+            "img":"dashboard-2/product/5.png",
+            "item":"4785 item",
+            "total":"-50%",
+            "price":"$48.00"
+        },
+        {
+            "id":6,
+            "name":"New T-shirt",
+            "img":"dashboard-2/product/6.png",
+            "item":"9 item",
+            "total":"-20%",
+            "price":"$69.00"
+        },
+        {
+            "id":7,
+            "name":"Jewellery",
+            "img":"dashboard-2/product/7.png",
+            "item":"7878 item",
+            "total":"-10%",
+            "price":"$78.00"
+        },
+        {
+            "id":8,
+            "name":"Smart Phone",
+            "img":"dashboard-2/product/8.png",
+            "item":"987 item",
+            "total":"-30%",
+            "price":"$36.00"
+        }
+    ],
+    "orderList":[
+        {
+            "id":1,
+            "color":"#456861",
+            "status":"Moving",
+            "operator":"Ossim keter",
+            "date":"16 August",
+            "address":"Green Bay, Wisconsin, London",
+            "price":"$450.00"
+        },
+        {
+            "id":2,
+            "color":"#846953",
+             "status":"Moving",
+            "operator":"Venter loren",
+            "date":"21 September",
+            "address":"Summerlin, Nevada, United kingdom",
+            "price":"$136.00"
+        },
+        {
+            "id":3,
+            "color":"#197568",
+             "status":"Cancel",
+            "operator":"Fran loain",
+            "date":"06 March",
+            "address":"Atlantic City, New Jersey, UK",
+            "price":"$624.00"
+        },
+        {
+            "id":4,
+            "color":"#647953",
+             "status":"Pending",
+            "operator":"Loften Horen",
+            "date":"12 February",
+            "address":"Fort Worth, Soun Di, Texas, USA",
+            "price":"$48.00"
+        },
+        {
+            "id":5,
+            "color":"#447495",
+             "status":"Moving",
+            "operator":"Loie fenter",
+            "date":"12 February",
+            "address":"Green Bay, Wisconsin, London",
+            "price":"$258.00"
+        }
+      
+    ]
+}

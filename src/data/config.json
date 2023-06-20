@@ -1,0 +1,15 @@
+{ 
+    "settings":
+      {
+        "layout_type":"ltr",
+        "layout":"default",
+        "sidebar_setting":"default-sidebar"
+      },
+    "color":
+      {
+            "layout_version":"light",
+            "primary_color": "#5c61f2", 
+            "secondary_color": "#eeb82f"
+      }
+    }
+    
